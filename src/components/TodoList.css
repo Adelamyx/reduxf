@@ -1,0 +1,13 @@
+.todolist {
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.top {
+    margin-bottom: 20px;
+}
+
+.ant-list-item-no-flex:hover {
+    background: #fafafa;
+}
